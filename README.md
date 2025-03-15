@@ -11,6 +11,12 @@ Most of the commits in this repository correspond to videos in the program.
 3. Install the dependencies: `npm install`
 4. Start the app: `npm start`
 
+## Run Application
+
+```bash
+source runApp.sh
+```
+
 ## Contributing
 
 Because this is a code-along project and the commits correspond to specific videos in the program, we will not be accepting pull requests.
